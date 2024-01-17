@@ -1,1 +1,1 @@
-print('Learning Pyton')
+print('Learning Python')
