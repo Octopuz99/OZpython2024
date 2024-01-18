@@ -1,0 +1,4 @@
+0.- git status 
+1.- git add .        'traer los archivos par aagregar'
+2.- git commit -m 'mensaje'
+3.- git push origin nombre branch
