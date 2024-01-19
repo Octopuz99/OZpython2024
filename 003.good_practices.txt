@@ -1,0 +1,6 @@
+libro - the Pragmatic Programmer
+libro - Clean Code - Rober C MArtin
+las variables deben de describir que guardan al ser nombradas
+los nombres de Variables no deben ser largos
+No iniciar nombreVariables con mayudculas
+no iniciar con numeros o guion bajo o simbolo
